@@ -19,7 +19,7 @@ const findTrian = (a, b) => {
 console.log(findTrian(process.argv[2], process.argv[3]))
 
 
-// crear un array de numeros con elementos de la terminal
+// crear un array de NUMEROS con elementos de la terminal
 const arv = process.argv.slice(2)
 console.log(arv)
 const numArv = []
